@@ -17,15 +17,15 @@ To run the Tic Tac Toe game, you need:
 
 1. Clone this repository to your local machine using Git:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
-   cd tic-tac-toe
+   git clone https://github.com/ImamJhe/Tic_Tac_Toe.git
+   cd Tic_Tac_Toe
    ```
 
 2. Make sure you have Python 3.x installed. If not, download it from the official website: [Python Downloads](https://www.python.org/downloads/)
 
 3. Run the Tic Tac Toe game by executing the following command in your terminal or command prompt:
    ```bash
-   python tic_tac_toe.py
+   python Tic-Tac-Toe.py
    ```
 
 ## How to Play
